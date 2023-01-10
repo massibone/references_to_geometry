@@ -1,0 +1,5 @@
+In geometry, Heron's formula (or Hero's formula) gives the area A of a triangle in terms of the three side lengths a, b, c.
+
+Official Heron's formula is 
+
+A = √p * (p - a) * (p - b) * (p - c).
