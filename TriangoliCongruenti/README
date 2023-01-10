@@ -1,21 +1,30 @@
 criteri di congruenza per i triangoli
 
 
-TEOREMA (Primo criterio di congruenza): Se due triangoli hanno rispettivamente congruenti due lati e l’angolo tra essi compreso, allora sono congruenti.
+[AA] TEOREMA (Primo criterio di congruenza): Se due triangoli hanno rispettivamente congruenti due lati e l’angolo tra essi compreso, allora sono congruenti.[AA]
 
-TEOREMA (Secondo criterio di congruenza): Se due triangoli hanno rispettivamente congruenti due angoli e il lato tra essi compreso, allora sono congruenti.
+[SAS] TEOREMA (Secondo criterio di congruenza): Se due triangoli hanno rispettivamente congruenti due angoli e il lato tra essi compreso, allora sono congruenti.
 
-TEOREMA (Terzo criterio di congruenza): Se due triangoli hanno rispettivamente congruenti tutti e tre i lati, allora sono congruenti.
-
-
-
- 
+[SSS] TEOREMA (Terzo criterio di congruenza): Se due triangoli hanno rispettivamente congruenti tutti e tre i lati, allora sono congruenti.
 
 
 
+----------------------------------------------------------------------------------
+[AA] stands for "angle, angle" and means that the triangles have two of their angles equal.
+
+If two triangles have two of their angles equal, the triangles are similar.
 
 
- 
+[SAS] stands for "side, angle, side" and means that we have two triangles where:
+
+the ratio between two sides is the same as the ratio between another two sides
+and we we also know the included angles are equal.
+If two triangles have two pairs of sides in the same ratio and the included angles are also equal, then the triangles are similar.
+
+
+[SSS] stands for "side, side, side" and means that we have two triangles with all three pairs of corresponding sides in the same ratio.
+
+If two triangles have three pairs of sides in the same ratio, then the triangles are similar.
 
  
 
