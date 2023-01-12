@@ -1,1 +1,10 @@
 
+Euclidean distance between two points in Euclidean space is the length of a line segment between the two points. 
+It can be calculated from the Cartesian coordinates of the points using the Pythagorean theorem, therefore occasionally being called the Pythagorean distance.
+The distance between any two point is absolute value |p-q| --> sqrt(p-q
+In higher dimension the distance between p and q is:
+sqrt[(p1-q1)**2+(p2-q2)**2+...]
+
+Then the python program draw a triangle with right angle calculate for A,B,C as
+A = (b**2+c**2-a**2)/(a*b*c) 
+ in def triangle(a,b,c,A,B,C)
