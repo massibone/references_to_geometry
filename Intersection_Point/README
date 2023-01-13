@@ -1,0 +1,8 @@
+Point of intersection is the point where two lines or two curves meet each other.
+The point of intersection of two lines of two curves is a point. 
+If two planes meet each other then the point of intersection is a line
+
+In intersectionpoint.py when lines are parallel the program
+return a pair of FLT_MAX
+line AB is  a1x + b1y = c1
+line CD is  a2x + b2y = c2
