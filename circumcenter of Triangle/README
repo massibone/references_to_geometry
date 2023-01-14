@@ -1,0 +1,12 @@
+In triangle geometry, a circumcevian triangle is a special triangle associated with the reference triangle and a point in the plane of the triangle.
+In another way Circumcenter of a triangle is the point of intersection of all three perpendicular bisectors of the triangle.
+For example D = midpoint of AB
+D = [(x1 + x2)/2, (y1 + y2)/2]
+
+A = (5, 4)
+
+B = (3, 1)
+
+C = (6, 1)
+
+D= [4.5 , 2]
