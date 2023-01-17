@@ -1,0 +1,11 @@
+This program is not complete!
+It find equation of the bisector of angle ABC eand the coordinates of 3 point are:
+A(-2,7) B(4,1) C(-3,0)   p(x,y)
+
+ ba=(-2-4,7-1)-->(-6,6)
+ bc=(-3-4,0-1)-->(-7,-1)
+ bp=(x-y, y-1)
+ 
+(bp*ba)/[sqrt(-6^2+6^2)**2] = (bp*bc)/[sqrt(-7^2+-1^2)**2]
+-5x+5y+15+7x+y-29=0
+2x+6y-14=0   solution is an equation x+3y-7=0
