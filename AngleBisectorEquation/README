@@ -9,3 +9,10 @@ A(-2,7) B(4,1) C(-3,0)   p(x,y)
 (bp*ba)/[sqrt(-6^2+6^2)**2] = (bp*bc)/[sqrt(-7^2+-1^2)**2]
 -5x+5y+15+7x+y-29=0
 2x+6y-14=0   solution is an equation x+3y-7=0
+
+
+the other example is anglebisectortheorem.py
+
+let's assume DAB and DAC angle are congruent
+therefore AD is the bisector of CAB
+Theorem of angle bisector is AB/BD=AC/CD = 3,4
