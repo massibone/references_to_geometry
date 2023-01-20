@@ -2,3 +2,5 @@
 The secant is the segment that joins the origin with the end point of the tangent (OD).
 The secant is the inverse of the cosine. The secant ranges from zero (0 °) to infinity (90 °).
 
+Secant2.py is another version of  secant method,
+is a root-finding algorithm that uses a succession of roots of secant lines to better approximate a root of a function f.
