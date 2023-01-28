@@ -1,1 +1,15 @@
 In int_ext_angle.py given some points program detect if angles are inner or outer Angle
+
+-----------------------------------------------------------------------------------------
+
+"find_angle-line.py" is an alternative solution using the formula:
+
+ tan = | (m2-m1) / 1 + (m2 * m1) |
+
+where 'm1' is the slope of line 1 and 'm2' the slope of line 2.
+If line 1 is defined by the points P1 = [x1, y1] and P2 = [x2, y2], 
+then slope 'm' is:
+
+m= y2-y1 / x2-x1
+
+#By using the formulas above you can find the angle in degrees between two lines 
