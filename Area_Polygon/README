@@ -1,4 +1,4 @@
 
 In areapolygon.py  given points (0, 0), (0,5), (3, 5), (3,0) the program compute polygon's area
 
-areapolygon2.py another version
+areapolygon2.py and areapolygon3.py other versions
