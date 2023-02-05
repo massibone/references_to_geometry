@@ -1,1 +1,7 @@
 About triangle
+
+Draw triangle with module Turtle.
+This turtle() method is generally used to make objects.
+
+.forward(100) is used to move the turtle in the forwarding direction.
+.left(120) is used to move the turtle in the left direction after moving to forward.
