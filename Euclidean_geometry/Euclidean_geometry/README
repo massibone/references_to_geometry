@@ -1,0 +1,4 @@
+To find distance to line from point if you have slope and intercept you can use formula from  Python:
+
+def distance(point,coef):
+    return abs((coef[0]*point[0])-point[1]+coef[1])/math.sqrt((coef[0]*coef[0])+1)
