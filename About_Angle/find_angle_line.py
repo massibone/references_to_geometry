@@ -1,6 +1,5 @@
 import math
 
-
 def slope(x1, y1, x2, y2):  # Line slope given two points:
     return (y2-y1)/(x2-x1)
 
