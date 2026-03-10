@@ -1,5 +1,5 @@
 import math
-# Its a square with the top edge poked in
+
 points = [
     ( 1.0,  1.0),
     ( 0.0,  0.0),
@@ -35,4 +35,5 @@ for i in range(len(points)):
     else:
         print('Outer Angle')
     print('')
+
 
